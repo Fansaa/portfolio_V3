@@ -1,0 +1,114 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+    },
+    "home": {
+        "badge": "Learning. Advancing. Evolving.",
+        "title1": "Novice Web",
+        "title2": "Developer",
+        "typing": [
+            "Undergraduate Informatics Student",
+            "Tech Enthusiast"
+        ],
+        "description": "Committed to Continuously Learning in Developing Innovative, Functional, and User-Oriented Websites.",
+        "projects": "Projects",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "About Me",
+        "subtitle": "Exploring Ways to Transform Ideas into Digital Experiences",
+        "greeting": "Hello, I'm",
+        "bio": "Undergraduate Informatics student with interests in Artificial Intelligence, especially Computer Vision, and Embedded and IoT-based system development. Focused on continuous learning process in building functional and relevant digital solutions.",
+        "quote": "Approaching AI as a tool to augment research and learning, rather than replace human insight.",
+        "downloadCV": "Download CV",
+        "viewProjects": "View Projects",
+        "totalProjects": "Total Projects",
+        "projectsDesc": "Innovative web solutions crafted",
+        "certificates": "Certificates",
+        "certificatesDesc": "Professional skills validated",
+        "yearsExp": "Years of Experience",
+        "yearsExpDesc": "Continuous learning journey"
+    },
+    "portfolio": {
+        "title": "Portfolio Showcase",
+        "subtitle": "Explore my journey through projects, certifications, and technical expertise. Each section represents a milestone in my continuous learning path.",
+        "projects": "Projects",
+        "certificates": "Certificates",
+        "techStack": "Tech Stack",
+        "seeMore": "See More",
+        "seeLess": "See Less"
+    },
+    "contact": {
+        "title": "Contact Me",
+        "subtitle": "Have a question? Send me a message, and I'll get back to you soon.",
+        "formTitle": "Get in Touch",
+        "formSubtitle": "Have something to discuss? Send me a message and let's talk.",
+        "name": "Your Name",
+        "email": "Your Email",
+        "message": "Your Message",
+        "send": "Send Message",
+        "sending": "Sending...",
+        "successTitle": "Success!",
+        "successMessage": "Your message has been sent successfully!",
+        "errorTitle": "Failed!",
+        "errorMessage": "An error occurred. Please try again later.",
+        "loadingTitle": "Sending Message...",
+        "loadingMessage": "Please wait while we send your message"
+    },
+    "footer": {
+        "copyright": "© 2026 Fansa™. All Rights Reserved."
+    },
+    "notFound": {
+        "title": "Page Not Found",
+        "message": "Sorry, the page you're looking for doesn't exist.",
+        "backHome": "Back to Home"
+    },
+    "projectDetail": {
+        "loading": "Loading Project...",
+        "back": "Back",
+        "projects": "Projects",
+        "totalTech": "Total Technologies",
+        "mainFeatures": "Main Features",
+        "liveDemo": "Live Demo",
+        "github": "Github",
+        "techUsed": "Technologies Used",
+        "noTech": "No technologies added.",
+        "keyFeatures": "Key Features",
+        "noFeatures": "No features added.",
+        "privateTitle": "Private Source Code",
+        "privateText": "Sorry, the source code for this project is private.",
+        "understood": "Understood"
+    },
+    "comments": {
+        "title": "Comments",
+        "name": "Name",
+        "message": "Message",
+        "profilePhoto": "Profile Photo",
+        "optional": "optional",
+        "namePlaceholder": "Enter your name",
+        "messagePlaceholder": "Write your message here...",
+        "choosePhoto": "Choose Profile Photo",
+        "removePhoto": "Remove Photo",
+        "maxFileSize": "Max file size: 5MB",
+        "posting": "Posting...",
+        "postComment": "Post Comment",
+        "pinned": "Pinned Comment",
+        "admin": "Admin",
+        "noComments": "No comments yet. Start the conversation!",
+        "justNow": "Just now",
+        "minsAgo": "m ago",
+        "hoursAgo": "h ago",
+        "daysAgo": "d ago",
+        "fileSizeError": "File size must be less than 5MB. Please choose a smaller image.",
+        "invalidFile": "Please select a valid image file.",
+        "postError": "Failed to post comment. Please try again."
+    },
+    "social": {
+        "connectWithMe": "Connect With Me",
+        "letsConnect": "Let's Connect",
+        "onLinkedIn": "on LinkedIn"
+    }
+}

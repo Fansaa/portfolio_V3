@@ -1,0 +1,114 @@
+{
+    "nav": {
+        "home": "Beranda",
+        "about": "Tentang",
+        "portfolio": "Portofolio",
+        "contact": "Kontak"
+    },
+    "home": {
+        "badge": "Belajar. Maju. Berkembang.",
+        "title1": "Novice Web",
+        "title2": "Developer",
+        "typing": [
+            "Mahasiswa S1 Informatika",
+            "Penggemar Teknologi"
+        ],
+        "description": "Berkomitmen untuk Terus Belajar dalam Mengembangkan Website Inovatif, Fungsional, dan Berorientasi Pengguna.",
+        "projects": "Proyek",
+        "contact": "Kontak"
+    },
+    "about": {
+        "title": "Tentang Saya",
+        "subtitle": "Mengeksplorasi Cara Mengubah Ide Menjadi Pengalaman Digital",
+        "greeting": "Halo, Saya",
+        "bio": "Mahasiswa S1 Informatika dengan ketertarikan pada Artificial Intelligence, khususnya Computer Vision, serta pengembangan sistem berbasis Embedded dan IoT. Berfokus pada proses pembelajaran berkelanjutan dalam membangun solusi digital yang fungsional dan relevan.",
+        "quote": "Mendekati AI sebagai alat untuk meningkatkan riset dan pembelajaran, bukan menggantikan wawasan manusia.",
+        "downloadCV": "Unduh CV",
+        "viewProjects": "Lihat Proyek",
+        "totalProjects": "Total Proyek",
+        "projectsDesc": "Solusi web inovatif yang dibuat",
+        "certificates": "Sertifikat",
+        "certificatesDesc": "Keterampilan profesional tervalidasi",
+        "yearsExp": "Tahun Pengalaman",
+        "yearsExpDesc": "Perjalanan belajar berkelanjutan"
+    },
+    "portfolio": {
+        "title": "Showcase Portofolio",
+        "subtitle": "Jelajahi perjalanan saya melalui proyek, sertifikasi, dan keahlian teknis. Setiap bagian mewakili tonggak dalam jalur pembelajaran berkelanjutan saya.",
+        "projects": "Proyek",
+        "certificates": "Sertifikat",
+        "techStack": "Tech Stack",
+        "seeMore": "Lihat Lebih",
+        "seeLess": "Lihat Sedikit"
+    },
+    "contact": {
+        "title": "Hubungi Saya",
+        "subtitle": "Punya pertanyaan? Kirimi saya pesan, dan saya akan segera membalasnya.",
+        "formTitle": "Hubungi",
+        "formSubtitle": "Ada yang ingin didiskusikan? Kirim saya pesan dan mari kita bicara.",
+        "name": "Nama Anda",
+        "email": "Email Anda",
+        "message": "Pesan Anda",
+        "send": "Kirim Pesan",
+        "sending": "Mengirim...",
+        "successTitle": "Berhasil!",
+        "successMessage": "Pesan Anda telah berhasil terkirim!",
+        "errorTitle": "Gagal!",
+        "errorMessage": "Terjadi kesalahan. Silakan coba lagi nanti.",
+        "loadingTitle": "Mengirim Pesan...",
+        "loadingMessage": "Harap tunggu selagi kami mengirim pesan Anda"
+    },
+    "footer": {
+        "copyright": "© 2026 Fansa™. Hak Cipta Dilindungi."
+    },
+    "notFound": {
+        "title": "Halaman Tidak Ditemukan",
+        "message": "Maaf, halaman yang Anda cari tidak tersedia.",
+        "backHome": "Kembali ke Beranda"
+    },
+    "projectDetail": {
+        "loading": "Memuat Proyek...",
+        "back": "Kembali",
+        "projects": "Proyek",
+        "totalTech": "Total Teknologi",
+        "mainFeatures": "Fitur Utama",
+        "liveDemo": "Demo",
+        "github": "Github",
+        "techUsed": "Teknologi yang Digunakan",
+        "noTech": "Tidak ada teknologi.",
+        "keyFeatures": "Fitur Utama",
+        "noFeatures": "Tidak ada fitur.",
+        "privateTitle": "Source Code Privat",
+        "privateText": "Maaf, source code untuk proyek ini bersifat privat.",
+        "understood": "Mengerti"
+    },
+    "comments": {
+        "title": "Komentar",
+        "name": "Nama",
+        "message": "Pesan",
+        "profilePhoto": "Foto Profil",
+        "optional": "opsional",
+        "namePlaceholder": "Masukkan nama Anda",
+        "messagePlaceholder": "Tulis pesan Anda di sini...",
+        "choosePhoto": "Pilih Foto Profil",
+        "removePhoto": "Hapus Foto",
+        "maxFileSize": "Ukuran maks: 5MB",
+        "posting": "Mengirim...",
+        "postComment": "Kirim Komentar",
+        "pinned": "Komentar Terpasang",
+        "admin": "Admin",
+        "noComments": "Belum ada komentar. Mulai percakapan!",
+        "justNow": "Baru saja",
+        "minsAgo": " menit lalu",
+        "hoursAgo": " jam lalu",
+        "daysAgo": " hari lalu",
+        "fileSizeError": "Ukuran file harus kurang dari 5MB. Pilih gambar yang lebih kecil.",
+        "invalidFile": "Pilih file gambar yang valid.",
+        "postError": "Gagal mengirim komentar. Silakan coba lagi."
+    },
+    "social": {
+        "connectWithMe": "Hubungi Saya",
+        "letsConnect": "Mari Terhubung",
+        "onLinkedIn": "di LinkedIn"
+    }
+}
