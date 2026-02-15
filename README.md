@@ -35,7 +35,7 @@ Follow these steps to run the project locally:
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/Fansaa/portfolio_V2.git
+git clone https://github.com/Fansaa/portfolio_V3.git
 cd portfolio_V2
 ```
 
